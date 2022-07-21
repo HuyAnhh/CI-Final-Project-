@@ -1,0 +1,15 @@
+.container--header {
+    background-color: rgb(81,81,84);
+    color: #ffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+
+.container--footer {
+    background-color: rgb(29,29,31);
+    color: #ffff;
+    padding: 50px 100px;
+    text-align: left;
+}
