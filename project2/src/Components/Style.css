@@ -1,0 +1,35 @@
+.hieu1{
+    height: 350px;
+    margin: 10px;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+.hieu2{
+    height: 350px;
+    margin: 10px;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+.Samsung{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+a{
+    display: inline-block;
+    padding: 20px;
+    color: aqua;
+    border: 1px solid rgb(9, 66, 172);
+    margin-top: 50px;
+}
+p{
+    color: aqua;
+}
+.Oppo{
+    background-color: whitesmoke;
+    margin: 15px;
+}
