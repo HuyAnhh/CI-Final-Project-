@@ -33,3 +33,7 @@ p{
     background-color: whitesmoke;
     margin: 15px;
 }
+a:hover{
+    cursor: pointer;
+    background-color: blue;
+}
